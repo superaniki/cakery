@@ -6,7 +6,7 @@ import { getDocumentBySlug, getDocuments } from 'outstatic/server'
 async function getData() {
   const post = getDocumentBySlug('pages', 'about');
 
-  return post
+  return post;
 }
 
 export default async function About() {
