@@ -1,6 +1,6 @@
 ---
 title: 'About'
-status: 'draft'
+status: 'published'
 author:
   name: 'Rickard Sandgren'
   picture: 'https://avatars.githubusercontent.com/u/2293029?v=4'
