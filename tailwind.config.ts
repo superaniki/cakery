@@ -8,6 +8,11 @@ const config: Config = {
   ],
   theme: {
     extend: {
+      screens: {
+        'xs': '640px',
+        // => @media (min-width: 640px) { ... }
+
+      },
       colors: {
         cakery_blue: {
           DEFAULT: "#81cdd2",
