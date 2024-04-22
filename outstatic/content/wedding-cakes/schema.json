@@ -16,14 +16,6 @@
       "fieldType": "Tags",
       "dataType": "array",
       "title": "one tag"
-    },
-    "anotherTag": {
-      "required": false,
-      "description": "tag two",
-      "fieldType": "Tags",
-      "dataType": "array",
-      "title": "another tag",
-      "values": []
     }
   }
 }
