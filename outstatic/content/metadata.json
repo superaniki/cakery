@@ -1,6 +1,6 @@
 {
-  "commit": "93db3f3b4079a129f4764a5ba0aae384505369f1",
-  "generated": "2024-04-22T13:18:51.161Z",
+  "commit": "6e381e0441fd97d403b0133d4628d700d929b345",
+  "generated": "2024-04-22T13:19:40.484Z",
   "metadata": [
     {
       "__outstatic": {
@@ -199,6 +199,31 @@
       "slug": "creamy-orange",
       "status": "published",
       "title": "Creamy Orange",
+      "typeOfCake": [
+        {
+          "label": "cupcake",
+          "value": "cupcake"
+        }
+      ]
+    },
+    {
+      "__outstatic": {
+        "commit": "6e381e0441fd97d403b0133d4628d700d929b345",
+        "hash": "445027641",
+        "path": "outstatic/content/cakes/heyhey-oreo.md"
+      },
+      "author": {
+        "name": "Rickard Sandgren",
+        "picture": "https://avatars.githubusercontent.com/u/2293029?v=4"
+      },
+      "collection": "cakes",
+      "coverImage": "/images/Oreo-Cupcakes-Square-1.jpg",
+      "description": "",
+      "price": "35",
+      "publishedAt": "2024-04-22T13:31:03.156Z",
+      "slug": "heyhey-oreo",
+      "status": "published",
+      "title": "Heyhey Oreo!",
       "typeOfCake": [
         {
           "label": "cupcake",
