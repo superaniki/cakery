@@ -1,6 +1,6 @@
 {
-  "commit": "7c10d02b3d763bfe3deeb8ef6b55509e3859c1b6",
-  "generated": "2024-04-22T15:36:31.133Z",
+  "commit": "edf0684d7b6ed9828620d9744da8e893339e0b1b",
+  "generated": "2024-04-22T15:37:15.997Z",
   "metadata": [
     {
       "__outstatic": {
@@ -425,6 +425,31 @@
       "status": "published",
       "title": "My little cat deluxe",
       "typeOfCake": [
+      ]
+    },
+    {
+      "__outstatic": {
+        "commit": "edf0684d7b6ed9828620d9744da8e893339e0b1b",
+        "hash": "18960783",
+        "path": "outstatic/content/cakes/ding-dang-marry-me.md"
+      },
+      "author": {
+        "name": "Rickard Sandgren",
+        "picture": "https://avatars.githubusercontent.com/u/2293029?v=4"
+      },
+      "collection": "cakes",
+      "coverImage": "/images/w81504184798.png",
+      "description": "",
+      "price": "3900",
+      "publishedAt": "2024-04-22T15:48:44.645Z",
+      "slug": "ding-dang-marry-me",
+      "status": "published",
+      "title": "Ding dang marry me",
+      "typeOfCake": [
+        {
+          "label": "wedding cake",
+          "value": "weddingCake"
+        }
       ]
     }
   ]
