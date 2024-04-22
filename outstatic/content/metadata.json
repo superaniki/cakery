@@ -1,6 +1,6 @@
 {
-  "commit": "0a2f5369688b1fb4742be6d00247488c1ba94a1a",
-  "generated": "2024-04-22T15:32:28.710Z",
+  "commit": "55792aba59133610286310e96874e77f5e93672a",
+  "generated": "2024-04-22T15:33:17.121Z",
   "metadata": [
     {
       "__outstatic": {
@@ -324,6 +324,31 @@
       "slug": "strawberry-bliss",
       "status": "published",
       "title": "Strawberry Bliss",
+      "typeOfCake": [
+        {
+          "label": "wedding cake",
+          "value": "weddingCake"
+        }
+      ]
+    },
+    {
+      "__outstatic": {
+        "commit": "55792aba59133610286310e96874e77f5e93672a",
+        "hash": "469334120",
+        "path": "outstatic/content/cakes/spring-blossom-tower.md"
+      },
+      "author": {
+        "name": "Rickard Sandgren",
+        "picture": "https://avatars.githubusercontent.com/u/2293029?v=4"
+      },
+      "collection": "cakes",
+      "coverImage": "/images/w4.jpg",
+      "description": "",
+      "price": "79",
+      "publishedAt": "2024-04-22T15:44:38.787Z",
+      "slug": "spring-blossom-tower",
+      "status": "published",
+      "title": "Spring blossom tower",
       "typeOfCake": [
         {
           "label": "wedding cake",
