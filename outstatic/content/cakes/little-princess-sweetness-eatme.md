@@ -8,7 +8,7 @@ slug: 'little-princess-sweetness-eatme'
 description: ''
 coverImage: '/images/prinsess_cupcakes.jpg'
 price: ''
-typeOfCake: ''
+typeOfCake: [{"value":"cupcake","label":"cupcake"}]
 publishedAt: '2024-04-22T13:31:44.063Z'
 ---
 

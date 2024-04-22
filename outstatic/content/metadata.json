@@ -1,6 +1,6 @@
 {
-  "commit": "fb037939301110729d8571ef79a5f832846c2288",
-  "generated": "2024-04-22T13:22:54.731Z",
+  "commit": "e2217b191148baad1224c11a81d5be56da042420",
+  "generated": "2024-04-22T13:23:06.451Z",
   "metadata": [
     {
       "__outstatic": {
@@ -233,27 +233,6 @@
     },
     {
       "__outstatic": {
-        "commit": "9dcbf308f32a2c3ed9645f61b2a3dadc42190018",
-        "hash": "3287733844",
-        "path": "outstatic/content/cakes/little-princess-sweetness-eatme.md"
-      },
-      "author": {
-        "name": "Rickard Sandgren",
-        "picture": "https://avatars.githubusercontent.com/u/2293029?v=4"
-      },
-      "collection": "cakes",
-      "coverImage": "/images/prinsess_cupcakes.jpg",
-      "description": "",
-      "price": "",
-      "publishedAt": "2024-04-22T13:31:44.063Z",
-      "slug": "little-princess-sweetness-eatme",
-      "status": "published",
-      "title": "Little Princess Sweetness Eatme",
-      "typeOfCake": [
-      ]
-    },
-    {
-      "__outstatic": {
         "commit": "98915523564dc18547da2b1fe36c144cf5926443",
         "hash": "730807365",
         "path": "outstatic/content/cakes/vegan-velvet.md"
@@ -299,6 +278,31 @@
         {
           "label": "wedding cake",
           "value": "weddingCake"
+        }
+      ]
+    },
+    {
+      "__outstatic": {
+        "commit": "e2217b191148baad1224c11a81d5be56da042420",
+        "hash": "619602888",
+        "path": "outstatic/content/cakes/little-princess-sweetness-eatme.md"
+      },
+      "author": {
+        "name": "Rickard Sandgren",
+        "picture": "https://avatars.githubusercontent.com/u/2293029?v=4"
+      },
+      "collection": "cakes",
+      "coverImage": "/images/prinsess_cupcakes.jpg",
+      "description": "",
+      "price": "",
+      "publishedAt": "2024-04-22T13:31:44.063Z",
+      "slug": "little-princess-sweetness-eatme",
+      "status": "published",
+      "title": "Little Princess Sweetness Eatme",
+      "typeOfCake": [
+        {
+          "label": "cupcake",
+          "value": "cupcake"
         }
       ]
     }
