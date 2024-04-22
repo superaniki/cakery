@@ -11,11 +11,11 @@
     },
     "typeOfCake": {
       "required": false,
-      "description": "plupp,plopp,hej,tjopp",
+      "description": "",
+      "values": [],
       "fieldType": "Tags",
       "dataType": "array",
-      "title": "type of cake",
-      "values": []
+      "title": "type of cake"
     }
   }
 }
