@@ -1,6 +1,6 @@
 {
-  "commit": "690fd0eace141495bf03bef91d17c01a3a62ed70",
-  "generated": "2024-04-22T13:16:27.628Z",
+  "commit": "4f0db6cb716d4c3dd1878020ee1589bcca6c264c",
+  "generated": "2024-04-22T13:17:50.315Z",
   "metadata": [
     {
       "__outstatic": {
@@ -149,6 +149,31 @@
       "slug": "matcha-grab-bite",
       "status": "published",
       "title": "Matcha Grab-bite",
+      "typeOfCake": [
+        {
+          "label": "cupcake",
+          "value": "cupcake"
+        }
+      ]
+    },
+    {
+      "__outstatic": {
+        "commit": "4f0db6cb716d4c3dd1878020ee1589bcca6c264c",
+        "hash": "1948332055",
+        "path": "outstatic/content/cakes/mister-moisty.md"
+      },
+      "author": {
+        "name": "Rickard Sandgren",
+        "picture": "https://avatars.githubusercontent.com/u/2293029?v=4"
+      },
+      "collection": "cakes",
+      "coverImage": "/images/moistchokolate.webp",
+      "description": "",
+      "price": "29",
+      "publishedAt": "2024-04-22T13:28:51.370Z",
+      "slug": "mister-moisty",
+      "status": "published",
+      "title": "Mister moisty",
       "typeOfCake": [
         {
           "label": "cupcake",
