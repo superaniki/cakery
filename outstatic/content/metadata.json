@@ -1,6 +1,6 @@
 {
-  "commit": "a3222fd1585ef2cc4f58c164b1ab0bb9565bf466",
-  "generated": "2024-04-22T15:35:32.645Z",
+  "commit": "7c10d02b3d763bfe3deeb8ef6b55509e3859c1b6",
+  "generated": "2024-04-22T15:36:31.133Z",
   "metadata": [
     {
       "__outstatic": {
@@ -404,6 +404,27 @@
           "label": "wedding cake",
           "value": "weddingCake"
         }
+      ]
+    },
+    {
+      "__outstatic": {
+        "commit": "7c10d02b3d763bfe3deeb8ef6b55509e3859c1b6",
+        "hash": "1604405466",
+        "path": "outstatic/content/cakes/my-little-cat-deluxe.md"
+      },
+      "author": {
+        "name": "Rickard Sandgren",
+        "picture": "https://avatars.githubusercontent.com/u/2293029?v=4"
+      },
+      "collection": "cakes",
+      "coverImage": "/images/w71504156997.png",
+      "description": "",
+      "price": "390",
+      "publishedAt": "2024-04-22T15:47:40.118Z",
+      "slug": "my-little-cat-deluxe",
+      "status": "published",
+      "title": "My little cat deluxe",
+      "typeOfCake": [
       ]
     }
   ]
