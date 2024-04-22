@@ -19,6 +19,10 @@
         {
           "value": "cupcake",
           "label": "cupcake"
+        },
+        {
+          "value": "weddingCake",
+          "label": "wedding cake"
         }
       ]
     }
