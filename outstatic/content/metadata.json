@@ -1,6 +1,6 @@
 {
-  "commit": "98915523564dc18547da2b1fe36c144cf5926443",
-  "generated": "2024-04-22T13:21:55.722Z",
+  "commit": "fb037939301110729d8571ef79a5f832846c2288",
+  "generated": "2024-04-22T13:22:54.731Z",
   "metadata": [
     {
       "__outstatic": {
@@ -274,6 +274,31 @@
         {
           "label": "cupcake",
           "value": "cupcake"
+        }
+      ]
+    },
+    {
+      "__outstatic": {
+        "commit": "fb037939301110729d8571ef79a5f832846c2288",
+        "hash": "2998976948",
+        "path": "outstatic/content/cakes/white-heaven.md"
+      },
+      "author": {
+        "name": "Rickard Sandgren",
+        "picture": "https://avatars.githubusercontent.com/u/2293029?v=4"
+      },
+      "collection": "cakes",
+      "coverImage": "/images/w2.jpg",
+      "description": "",
+      "price": "394",
+      "publishedAt": "2024-04-22T13:34:01.894Z",
+      "slug": "white-heaven",
+      "status": "draft",
+      "title": "White heaven",
+      "typeOfCake": [
+        {
+          "label": "wedding cake",
+          "value": "weddingCake"
         }
       ]
     }
