@@ -10,7 +10,7 @@
       "title": "price"
     },
     "tags": {
-      "required": false,
+      "required": true,
       "description": "Price",
       "values": [],
       "fieldType": "Tags",
