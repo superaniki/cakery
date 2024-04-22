@@ -1,4 +1,4 @@
-import { getPage } from "@/lib/getData";
+import { getPage } from "@/lib/cms-api";
 
 export default async function About() {
   const post = await getPage("home");

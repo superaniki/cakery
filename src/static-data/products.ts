@@ -1,5 +1,5 @@
 
-import { Product } from "@/app/types/product";
+import { Product } from "@/types/product";
 
 export const cupCakes = [
   {
@@ -19,7 +19,7 @@ export const cupCakes = [
   },
   {
     "image": "moistchokolate.webp",
-    "title": ";ister moisty",
+    "title": "Mister moisty",
     "price": 49
   },
   {
