@@ -1,6 +1,6 @@
 {
-  "commit": "ac425e3de1eb94878f3b75bddda5a564080dc93f",
-  "generated": "2024-04-22T13:23:40.147Z",
+  "commit": "0a2f5369688b1fb4742be6d00247488c1ba94a1a",
+  "generated": "2024-04-22T15:32:28.710Z",
   "metadata": [
     {
       "__outstatic": {
@@ -299,6 +299,31 @@
       "slug": "blizzfull-yum",
       "status": "published",
       "title": "Blizzfull Yum",
+      "typeOfCake": [
+        {
+          "label": "wedding cake",
+          "value": "weddingCake"
+        }
+      ]
+    },
+    {
+      "__outstatic": {
+        "commit": "0a2f5369688b1fb4742be6d00247488c1ba94a1a",
+        "hash": "3863098235",
+        "path": "outstatic/content/cakes/strawberry-bliss.md"
+      },
+      "author": {
+        "name": "Rickard Sandgren",
+        "picture": "https://avatars.githubusercontent.com/u/2293029?v=4"
+      },
+      "collection": "cakes",
+      "coverImage": "/images/w3.webp",
+      "description": "",
+      "price": "69",
+      "publishedAt": "2024-04-22T15:42:58.596Z",
+      "slug": "strawberry-bliss",
+      "status": "published",
+      "title": "Strawberry Bliss",
       "typeOfCake": [
         {
           "label": "wedding cake",
