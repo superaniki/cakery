@@ -1,6 +1,6 @@
 {
-  "commit": "98dfb23e899151321d445759054db948914e5242",
-  "generated": "Mon, 22 Apr 2024 12:27:58 GMT",
+  "commit": "0c22147011c80fcfe3a0c56965476b0c9ad28d53",
+  "generated": "2024-04-22T13:06:47.654Z",
   "metadata": [
     {
       "__outstatic": {
@@ -37,31 +37,6 @@
       "slug": "about",
       "status": "published",
       "title": "About"
-    },
-    {
-      "__outstatic": {
-        "commit": "668429c6e56d1ef45cf851b01bdc8fddd3f518a4",
-        "hash": "2229439507",
-        "path": "outstatic/content/cakes/fluffy-amazing.md"
-      },
-      "author": {
-        "name": "Rickard Sandgren",
-        "picture": "https://avatars.githubusercontent.com/u/2293029?v=4"
-      },
-      "collection": "cakes",
-      "coverImage": "",
-      "description": "",
-      "price": "79",
-      "publishedAt": "2024-04-22T12:11:45.031Z",
-      "slug": "fluffy-amazing",
-      "status": "published",
-      "title": "Fluffy Amazing",
-      "typeOfCake": [
-        {
-          "label": "cupcake",
-          "value": "cupcake"
-        }
-      ]
     },
     {
       "__outstatic": {
@@ -105,6 +80,31 @@
       "slug": "contact",
       "status": "published",
       "title": "Contact"
+    },
+    {
+      "__outstatic": {
+        "commit": "0c22147011c80fcfe3a0c56965476b0c9ad28d53",
+        "hash": "2457502398",
+        "path": "outstatic/content/cakes/fluffy-amazing.md"
+      },
+      "author": {
+        "name": "Rickard Sandgren",
+        "picture": "https://avatars.githubusercontent.com/u/2293029?v=4"
+      },
+      "collection": "cakes",
+      "coverImage": "/images/american-buttercream_hero-k4Nj.webp",
+      "description": "",
+      "price": "79",
+      "publishedAt": "2024-04-22T12:11:45.031Z",
+      "slug": "fluffy-amazing",
+      "status": "published",
+      "title": "Fluffy Amazing",
+      "typeOfCake": [
+        {
+          "label": "cupcake",
+          "value": "cupcake"
+        }
+      ]
     }
   ]
 }
