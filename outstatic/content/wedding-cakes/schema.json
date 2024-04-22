@@ -12,10 +12,10 @@
     "oneTag": {
       "required": false,
       "description": "",
+      "values": [],
       "fieldType": "Tags",
       "dataType": "array",
-      "title": "one tag",
-      "values": []
+      "title": "one tag"
     },
     "anotherTag": {
       "required": false,
