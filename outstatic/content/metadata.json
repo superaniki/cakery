@@ -1,6 +1,6 @@
 {
-  "commit": "4f0db6cb716d4c3dd1878020ee1589bcca6c264c",
-  "generated": "2024-04-22T13:17:50.315Z",
+  "commit": "93db3f3b4079a129f4764a5ba0aae384505369f1",
+  "generated": "2024-04-22T13:18:51.161Z",
   "metadata": [
     {
       "__outstatic": {
@@ -174,6 +174,31 @@
       "slug": "mister-moisty",
       "status": "published",
       "title": "Mister moisty",
+      "typeOfCake": [
+        {
+          "label": "cupcake",
+          "value": "cupcake"
+        }
+      ]
+    },
+    {
+      "__outstatic": {
+        "commit": "93db3f3b4079a129f4764a5ba0aae384505369f1",
+        "hash": "4007706902",
+        "path": "outstatic/content/cakes/creamy-orange.md"
+      },
+      "author": {
+        "name": "Rickard Sandgren",
+        "picture": "https://avatars.githubusercontent.com/u/2293029?v=4"
+      },
+      "collection": "cakes",
+      "coverImage": "/images/OrangeCreamsicleCupcakes_featured.jpg",
+      "description": "",
+      "price": "49",
+      "publishedAt": "2024-04-22T13:29:56.114Z",
+      "slug": "creamy-orange",
+      "status": "published",
+      "title": "Creamy Orange",
       "typeOfCake": [
         {
           "label": "cupcake",
