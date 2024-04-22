@@ -11,11 +11,11 @@
     },
     "tags": {
       "required": false,
-      "description": "",
+      "description": "Price",
+      "values": [],
       "fieldType": "Tags",
       "dataType": "array",
-      "title": "tags",
-      "values": []
+      "title": "tags"
     }
   }
 }
