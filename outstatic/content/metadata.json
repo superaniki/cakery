@@ -1,6 +1,6 @@
 {
-  "commit": "6e381e0441fd97d403b0133d4628d700d929b345",
-  "generated": "2024-04-22T13:19:40.484Z",
+  "commit": "9dcbf308f32a2c3ed9645f61b2a3dadc42190018",
+  "generated": "2024-04-22T13:20:36.158Z",
   "metadata": [
     {
       "__outstatic": {
@@ -229,6 +229,27 @@
           "label": "cupcake",
           "value": "cupcake"
         }
+      ]
+    },
+    {
+      "__outstatic": {
+        "commit": "9dcbf308f32a2c3ed9645f61b2a3dadc42190018",
+        "hash": "3287733844",
+        "path": "outstatic/content/cakes/little-princess-sweetness-eatme.md"
+      },
+      "author": {
+        "name": "Rickard Sandgren",
+        "picture": "https://avatars.githubusercontent.com/u/2293029?v=4"
+      },
+      "collection": "cakes",
+      "coverImage": "/images/prinsess_cupcakes.jpg",
+      "description": "",
+      "price": "",
+      "publishedAt": "2024-04-22T13:31:44.063Z",
+      "slug": "little-princess-sweetness-eatme",
+      "status": "published",
+      "title": "Little Princess Sweetness Eatme",
+      "typeOfCake": [
       ]
     }
   ]
