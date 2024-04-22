@@ -1,6 +1,6 @@
 {
-  "commit": "d97202378e96dd00003fe538d0c02bd9d11bb397",
-  "generated": "2024-04-22T13:09:04.483Z",
+  "commit": "475aee9ed8b5551a9783812f11bbc180d9caeabe",
+  "generated": "2024-04-22T13:10:52.935Z",
   "metadata": [
     {
       "__outstatic": {
@@ -104,6 +104,27 @@
           "label": "cupcake",
           "value": "cupcake"
         }
+      ]
+    },
+    {
+      "__outstatic": {
+        "commit": "475aee9ed8b5551a9783812f11bbc180d9caeabe",
+        "hash": "1832085686",
+        "path": "outstatic/content/cakes/chokolate-dream.md"
+      },
+      "author": {
+        "name": "Rickard Sandgren",
+        "picture": "https://avatars.githubusercontent.com/u/2293029?v=4"
+      },
+      "collection": "cakes",
+      "coverImage": "",
+      "description": "",
+      "price": "79",
+      "publishedAt": "2024-04-22T13:21:23.089Z",
+      "slug": "chokolate-dream",
+      "status": "draft",
+      "title": "Chokolate Dream",
+      "typeOfCake": [
       ]
     }
   ]
