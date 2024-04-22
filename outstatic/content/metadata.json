@@ -1,6 +1,6 @@
 {
-  "commit": "55792aba59133610286310e96874e77f5e93672a",
-  "generated": "2024-04-22T15:33:17.121Z",
+  "commit": "7d2439cfc11fddc770b6ddd27e2c6f5d1f64e7eb",
+  "generated": "2024-04-22T15:34:39.866Z",
   "metadata": [
     {
       "__outstatic": {
@@ -349,6 +349,31 @@
       "slug": "spring-blossom-tower",
       "status": "published",
       "title": "Spring blossom tower",
+      "typeOfCake": [
+        {
+          "label": "wedding cake",
+          "value": "weddingCake"
+        }
+      ]
+    },
+    {
+      "__outstatic": {
+        "commit": "7d2439cfc11fddc770b6ddd27e2c6f5d1f64e7eb",
+        "hash": "2157683435",
+        "path": "outstatic/content/cakes/colorful-creamyness.md"
+      },
+      "author": {
+        "name": "Rickard Sandgren",
+        "picture": "https://avatars.githubusercontent.com/u/2293029?v=4"
+      },
+      "collection": "cakes",
+      "coverImage": "/images/w5.jpg",
+      "description": "",
+      "price": "495",
+      "publishedAt": "2024-04-22T15:45:32.602Z",
+      "slug": "colorful-creamyness",
+      "status": "published",
+      "title": "Colorful Creamyness",
       "typeOfCake": [
         {
           "label": "wedding cake",
