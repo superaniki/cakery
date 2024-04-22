@@ -1,0 +1,30 @@
+{
+  "title": "wedding-cakes",
+  "type": "object",
+  "properties": {
+    "price": {
+      "required": true,
+      "description": "Price",
+      "fieldType": "Number",
+      "dataType": "number",
+      "title": "price"
+    },
+    "tags": {
+      "required": true,
+      "description": "",
+      "fieldType": "Tags",
+      "dataType": "array",
+      "title": "tags",
+      "values": [  
+        {
+        "value": "cupCake",
+        "label": "Cup cake"
+      },
+      {
+        "value": "weddingCake",
+        "label": "Wedding cake"
+      }
+    ]
+    }
+  }
+}
