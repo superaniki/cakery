@@ -10,8 +10,8 @@
       "title": "price"
     },
     "oneTag": {
-      "required": false,
-      "description": "",
+      "required": true,
+      "description": "a tag description",
       "values": [],
       "fieldType": "Tags",
       "dataType": "array",
