@@ -1,0 +1,13 @@
+{
+  "title": "wedding-cakes",
+  "type": "object",
+  "properties": {
+    "price": {
+      "required": true,
+      "description": "Price",
+      "fieldType": "Number",
+      "dataType": "number",
+      "title": "price"
+    }
+  }
+}
