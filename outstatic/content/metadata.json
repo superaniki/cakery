@@ -1,0 +1,110 @@
+{
+  "commit": "98dfb23e899151321d445759054db948914e5242",
+  "generated": "Mon, 22 Apr 2024 12:27:58 GMT",
+  "metadata": [
+    {
+      "__outstatic": {
+        "commit": "3840a7db257e3229399106ce34fc0712e8ce455a",
+        "hash": "337057040",
+        "path": "outstatic/content/pages/home.md"
+      },
+      "author": {
+        "name": "Rickard Sandgren",
+        "picture": "https://avatars.githubusercontent.com/u/2293029?v=4"
+      },
+      "collection": "pages",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-04-22T10:26:12.078Z",
+      "slug": "home",
+      "status": "published",
+      "title": "Home"
+    },
+    {
+      "__outstatic": {
+        "commit": "a3791d499b941ed0cc6ec3e67809325283d8728a",
+        "hash": "2464316235",
+        "path": "outstatic/content/pages/about.md"
+      },
+      "author": {
+        "name": "Rickard Sandgren",
+        "picture": "https://avatars.githubusercontent.com/u/2293029?v=4"
+      },
+      "collection": "pages",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-04-19T13:51:27.097Z",
+      "slug": "about",
+      "status": "published",
+      "title": "About"
+    },
+    {
+      "__outstatic": {
+        "commit": "668429c6e56d1ef45cf851b01bdc8fddd3f518a4",
+        "hash": "2229439507",
+        "path": "outstatic/content/cakes/fluffy-amazing.md"
+      },
+      "author": {
+        "name": "Rickard Sandgren",
+        "picture": "https://avatars.githubusercontent.com/u/2293029?v=4"
+      },
+      "collection": "cakes",
+      "coverImage": "",
+      "description": "",
+      "price": "79",
+      "publishedAt": "2024-04-22T12:11:45.031Z",
+      "slug": "fluffy-amazing",
+      "status": "published",
+      "title": "Fluffy Amazing",
+      "typeOfCake": [
+        {
+          "label": "cupcake",
+          "value": "cupcake"
+        }
+      ]
+    },
+    {
+      "__outstatic": {
+        "commit": "267e99b77ea420785e890f897912ac36962e103e",
+        "hash": "3283795178",
+        "path": "outstatic/content/cakes/blizzfull-yum.md"
+      },
+      "author": {
+        "name": "Rickard Sandgren",
+        "picture": "https://avatars.githubusercontent.com/u/2293029?v=4"
+      },
+      "collection": "cakes",
+      "coverImage": "",
+      "description": "",
+      "price": "499",
+      "publishedAt": "2024-04-22T12:12:56.403Z",
+      "slug": "blizzfull-yum",
+      "status": "published",
+      "title": "Blizzfull Yum",
+      "typeOfCake": [
+        {
+          "label": "wedding cake",
+          "value": "weddingCake"
+        }
+      ]
+    },
+    {
+      "__outstatic": {
+        "commit": "6e3839fe48037db4b2d6928c415fe324d7a96402",
+        "hash": "2434170397",
+        "path": "outstatic/content/pages/contact.md"
+      },
+      "author": {
+        "name": "Rickard Sandgren",
+        "picture": "https://avatars.githubusercontent.com/u/2293029?v=4"
+      },
+      "collection": "pages",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-04-22T11:11:40.729Z",
+      "slug": "contact",
+      "status": "published",
+      "title": "Contact"
+    }
+  ]
+}
