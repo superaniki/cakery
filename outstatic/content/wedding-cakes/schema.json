@@ -12,7 +12,12 @@
     "typeOfCake": {
       "required": false,
       "description": "",
-      "values": [],
+      "values": [
+        {
+          "value": "cupcake",
+          "label": "cupcake"
+        }
+      ],
       "fieldType": "Tags",
       "dataType": "array",
       "title": "type of cake"
