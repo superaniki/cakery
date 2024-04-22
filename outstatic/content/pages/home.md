@@ -10,7 +10,7 @@ coverImage: ''
 publishedAt: '2024-04-22T10:26:12.078Z'
 ---
 
-### Welcome to Munamii Cakery!\
+### Welcome to Munamii Cakery!
 
 \
 **We offer you** the most delicious cakes and cupcakes for all kinds of events and celebrations. Browse around to discover what you would like to buy.
