@@ -21,8 +21,12 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
+      <Script src="https://kit.fontawesome.com/b245547d3c.js" crossOrigin="anonymous"></Script>
+
       <body className={inter.className}>
-        {children}
+        <Header />
+        <Content>{children}</Content>
+        <Footer />
       </body >
     </html >
   );
