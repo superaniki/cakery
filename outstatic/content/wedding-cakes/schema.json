@@ -16,6 +16,10 @@
         {
           "value": "cupcake",
           "label": "cupcake"
+        },
+        {
+          "value": "weddingcake",
+          "label": "weddingcake"
         }
       ],
       "fieldType": "Tags",
