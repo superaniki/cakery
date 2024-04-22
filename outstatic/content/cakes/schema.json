@@ -1,0 +1,13 @@
+{
+  "title": "cakes",
+  "type": "object",
+  "properties": {
+    "price": {
+      "required": false,
+      "description": "price of a cake",
+      "fieldType": "Number",
+      "dataType": "number",
+      "title": "Price"
+    }
+  }
+}
