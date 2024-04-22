@@ -1,6 +1,6 @@
 {
-  "commit": "31d64c107709c38e1399d389446ff4b18a24aa18",
-  "generated": "2024-04-22T13:14:43.466Z",
+  "commit": "690fd0eace141495bf03bef91d17c01a3a62ed70",
+  "generated": "2024-04-22T13:16:27.628Z",
   "metadata": [
     {
       "__outstatic": {
@@ -124,6 +124,31 @@
       "slug": "chokolate-dream",
       "status": "published",
       "title": "Chokolate Dream",
+      "typeOfCake": [
+        {
+          "label": "cupcake",
+          "value": "cupcake"
+        }
+      ]
+    },
+    {
+      "__outstatic": {
+        "commit": "690fd0eace141495bf03bef91d17c01a3a62ed70",
+        "hash": "3276635315",
+        "path": "outstatic/content/cakes/matcha-grab-bite.md"
+      },
+      "author": {
+        "name": "Rickard Sandgren",
+        "picture": "https://avatars.githubusercontent.com/u/2293029?v=4"
+      },
+      "collection": "cakes",
+      "coverImage": "/images/Matcha-Cupcakes.jpg",
+      "description": "",
+      "price": "79",
+      "publishedAt": "2024-04-22T13:27:14.349Z",
+      "slug": "matcha-grab-bite",
+      "status": "published",
+      "title": "Matcha Grab-bite",
       "typeOfCake": [
         {
           "label": "cupcake",
