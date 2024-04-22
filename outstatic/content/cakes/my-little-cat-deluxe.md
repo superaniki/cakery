@@ -8,7 +8,7 @@ slug: 'my-little-cat-deluxe'
 description: ''
 coverImage: '/images/w71504156997.png'
 price: '390'
-typeOfCake: ''
+typeOfCake: [{"value":"weddingCake","label":"wedding cake"}]
 publishedAt: '2024-04-22T15:47:40.118Z'
 ---
 
