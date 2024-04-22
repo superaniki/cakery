@@ -8,14 +8,6 @@
       "fieldType": "Number",
       "dataType": "number",
       "title": "price"
-    },
-    "oneTag": {
-      "required": true,
-      "description": "a tag description",
-      "values": [],
-      "fieldType": "Tags",
-      "dataType": "array",
-      "title": "one tag"
     }
   }
 }
