@@ -1,6 +1,6 @@
 {
-  "commit": "7d2439cfc11fddc770b6ddd27e2c6f5d1f64e7eb",
-  "generated": "2024-04-22T15:34:39.866Z",
+  "commit": "a3222fd1585ef2cc4f58c164b1ab0bb9565bf466",
+  "generated": "2024-04-22T15:35:32.645Z",
   "metadata": [
     {
       "__outstatic": {
@@ -374,6 +374,31 @@
       "slug": "colorful-creamyness",
       "status": "published",
       "title": "Colorful Creamyness",
+      "typeOfCake": [
+        {
+          "label": "wedding cake",
+          "value": "weddingCake"
+        }
+      ]
+    },
+    {
+      "__outstatic": {
+        "commit": "a3222fd1585ef2cc4f58c164b1ab0bb9565bf466",
+        "hash": "556938214",
+        "path": "outstatic/content/cakes/roses-for-the-mouth.md"
+      },
+      "author": {
+        "name": "Rickard Sandgren",
+        "picture": "https://avatars.githubusercontent.com/u/2293029?v=4"
+      },
+      "collection": "cakes",
+      "coverImage": "/images/w61503681027.png",
+      "description": "",
+      "price": "450",
+      "publishedAt": "2024-04-22T15:46:49.714Z",
+      "slug": "roses-for-the-mouth",
+      "status": "published",
+      "title": "Roses for the mouth",
       "typeOfCake": [
         {
           "label": "wedding cake",
