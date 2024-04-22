@@ -7,7 +7,6 @@ author:
 slug: 'about'
 description: ''
 coverImage: ''
-tags: ''
 publishedAt: '2024-04-19T13:51:27.097Z'
 ---
 
@@ -15,4 +14,4 @@ publishedAt: '2024-04-19T13:51:27.097Z'
 \
 **We** have been in the pastry market for more than 8 years and now we offer you a new way to shop through our website.
 
-*Please enjoy yourself a treat!*
+_Please enjoy yourself a treat!_
