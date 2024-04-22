@@ -1,6 +1,6 @@
 {
-  "commit": "475aee9ed8b5551a9783812f11bbc180d9caeabe",
-  "generated": "2024-04-22T13:10:52.935Z",
+  "commit": "31d64c107709c38e1399d389446ff4b18a24aa18",
+  "generated": "2024-04-22T13:14:43.466Z",
   "metadata": [
     {
       "__outstatic": {
@@ -108,8 +108,8 @@
     },
     {
       "__outstatic": {
-        "commit": "475aee9ed8b5551a9783812f11bbc180d9caeabe",
-        "hash": "1832085686",
+        "commit": "31d64c107709c38e1399d389446ff4b18a24aa18",
+        "hash": "2881270956",
         "path": "outstatic/content/cakes/chokolate-dream.md"
       },
       "author": {
@@ -117,14 +117,18 @@
         "picture": "https://avatars.githubusercontent.com/u/2293029?v=4"
       },
       "collection": "cakes",
-      "coverImage": "",
+      "coverImage": "/images/chocolate-cupcakes.webp",
       "description": "",
       "price": "79",
       "publishedAt": "2024-04-22T13:21:23.089Z",
       "slug": "chokolate-dream",
-      "status": "draft",
+      "status": "published",
       "title": "Chokolate Dream",
       "typeOfCake": [
+        {
+          "label": "cupcake",
+          "value": "cupcake"
+        }
       ]
     }
   ]
