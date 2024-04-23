@@ -1,6 +1,6 @@
 {
-  "commit": "c8670e3ee7586fadeacdf464549244f5203847ed",
-  "generated": "2024-04-23T11:39:56.348Z",
+  "commit": "4b4c0999daf245be8010c01541daeca5d5864f72",
+  "generated": "2024-04-23T11:51:08.221Z",
   "metadata": [
     {
       "__outstatic": {
@@ -478,6 +478,31 @@
         {
           "label": "wedding cake",
           "value": "weddingCake"
+        }
+      ]
+    },
+    {
+      "__outstatic": {
+        "commit": "4b4c0999daf245be8010c01541daeca5d5864f72",
+        "hash": "2037768316",
+        "path": "outstatic/content/cakes/heheh-mer-kaga.md"
+      },
+      "author": {
+        "name": "Rickard Sandgren",
+        "picture": "https://avatars.githubusercontent.com/u/2293029?v=4"
+      },
+      "collection": "cakes",
+      "coverImage": "/images/zombie-cupcake-cxOT.jpg",
+      "description": "",
+      "price": "100",
+      "publishedAt": "2024-04-23T12:00:53.119Z",
+      "slug": "heheh-mer-kaga",
+      "status": "draft",
+      "title": "Heheh mer kaga",
+      "typeOfCake": [
+        {
+          "label": "cupcake",
+          "value": "cupcake"
         }
       ]
     }
