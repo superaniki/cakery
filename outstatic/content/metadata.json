@@ -1,6 +1,6 @@
 {
-  "commit": "65347c3011b640524eb4a3828dddb5aa02c3f64d",
-  "generated": "2024-04-22T15:54:36.491Z",
+  "commit": "c8670e3ee7586fadeacdf464549244f5203847ed",
+  "generated": "2024-04-23T11:39:56.348Z",
   "metadata": [
     {
       "__outstatic": {
@@ -449,6 +449,31 @@
       "slug": "my-little-cat-deluxe",
       "status": "published",
       "title": "My little cat deluxe",
+      "typeOfCake": [
+        {
+          "label": "wedding cake",
+          "value": "weddingCake"
+        }
+      ]
+    },
+    {
+      "__outstatic": {
+        "commit": "c8670e3ee7586fadeacdf464549244f5203847ed",
+        "hash": "527700796",
+        "path": "outstatic/content/cakes/slurrrrp-kagan.md"
+      },
+      "author": {
+        "name": "Rickard Sandgren",
+        "picture": "https://avatars.githubusercontent.com/u/2293029?v=4"
+      },
+      "collection": "cakes",
+      "coverImage": "/images/sprinkle-funfetti-cake-760x896-I2ND.jpg",
+      "description": "",
+      "price": "400",
+      "publishedAt": "2024-04-23T11:48:29.175Z",
+      "slug": "slurrrrp-kagan",
+      "status": "draft",
+      "title": "Slurrrrp Kagan!",
       "typeOfCake": [
         {
           "label": "wedding cake",
