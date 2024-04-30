@@ -9,12 +9,19 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@portabletext/react": "^3.0.18",
+    "@react-three/drei": "^9.105.4",
+    "@react-three/fiber": "^8.16.2",
+    "@sanity/image-url": "^1.0.2",
+    "@types/three": "^0.163.0",
     "next": "14.2.2",
+    "next-sanity": "^9.0.10",
     "outstatic": "^1.4.8",
     "react": "^18",
     "react-dom": "^18",
     "remark": "^15.0.1",
-    "remark-html": "^16.0.1"
+    "remark-html": "^16.0.1",
+    "three": "^0.163.0"
   },
   "devDependencies": {
     "@types/node": "^20",
